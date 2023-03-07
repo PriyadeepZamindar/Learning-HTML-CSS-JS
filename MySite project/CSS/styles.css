@@ -1,0 +1,71 @@
+.circular {
+    border-radius: 100%;
+}
+div {
+    margin: 0;
+}
+
+div.topContainer {
+    position: relative;
+    padding-top: 100px;
+}
+
+
+.topBox {
+    position: absolute;
+    top: 18%;
+    left: 0;
+    right: 0;
+}
+
+
+body {
+    text-align: center;
+    background-color: #B9F3FC;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin: 0;
+    font-family: 'Pacifico', cursive;
+}
+
+h2 {
+    font-family: 'Merriweather', serif;
+}
+
+h3 {
+    font-family: 'Merriweather', serif;
+}
+
+h4 {
+    font-family: 'Merriweather', serif;
+}
+.mountain {
+    width: 55%;
+}
+
+.topCloud {
+    position: absolute;
+    top: 9%;
+    right: 29%;
+}
+
+.botCloud {
+    position: absolute;
+    left: 24%;
+    top: 46%;
+}
+
+.myPic {
+    padding-top: 5%;
+    width: 30%;
+}
+
+.cuddles {
+    width: 27%;
+}
+
+.buddy {
+    width: 27%;
+}
